@@ -22,6 +22,10 @@
 
 |   Date    |                            Course                            |              Instructor(s)               |
 | :-------: | :----------------------------------------------------------: | :--------------------------------------: |
+| 09 Sep 22 |                          Clean Code                          |         Maximilian Schwarzmüller         |
+| 09 Sep 22 |          Application Security - The Complete Guide           |               Derek Fisher               |
+| 04 Sep 22 | Design Microservices Architecture with Patterns & Principles |              Mehmet Ozkaya               |
+| 01 Sep 22 |   Docker & Kubernetes: The Practical Guide [2022 Edition]    |         Maximilian Schwarzmüller         |
 | 18 Jun 22 |  2022 Complete Python Bootcamp From Zero to Hero in Python   |              Jose Portilla               |
 | 08 Jun 22 |         Go: The Complete Developer's Guide (Golang)          |              Stephen Grider              |
 | 07 May 22 | The Coding Interview Bootcamp: Algorithms + Data Structures  |              Stephen Grider              |
@@ -35,5 +39,4 @@
 | 22 Mar 22 |                   React Front To Back 2022                   |              Brad Traversy               |
 | 13 Mar 22 | MERN Stack Course 2022 - MongoDB, Express, React and NodeJS  |               John Smilga                |
 | 05 Mar 22 |     The Complete Node.js Developer Course (3rd Edition)      |               Andrew Mead                |
-
 </details>
