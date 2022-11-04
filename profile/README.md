@@ -25,6 +25,9 @@
 
 |   Date    |                            Course                            |                Instructor(s)                 |
 | :-------: | :----------------------------------------------------------: | :------------------------------------------: |
+| 30 Oct 22 |     GitLab CI: Pipelines, CI/CD and DevOps for Beginners     |                Valentin Despa                |
+| 29 Oct 22 | Learn How To Code: Google's Go (golang) Programming Language |                 Todd McLeod                  |
+| 12 Oct 22 |       Svelte.js - The Complete Guide (incl. Sapper.js)       |           Maximilian Schwarzmüller           |
 | 29 Sep 22 |    Web Authentication With Golang - Google's Go Language     |      Todd McLeod </br> Daniel Hoffmann       |
 | 29 Sep 22 | Web Development w/ Google’s Go (golang) Programming Language |                 Todd McLeod                  |
 | 28 Sep 22 |              Working with React and Go (Golang)              |                Trevor Sawler                 |
