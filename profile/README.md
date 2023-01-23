@@ -25,6 +25,8 @@
 
 |   Date    |                            Course                            |                Instructor(s)                 |
 | :-------: | :----------------------------------------------------------: | :------------------------------------------: |
+| 23 Jan 23 |           Understanding TypeScript - 2023 Edition            |           Maximilian Schwarzmüller           |
+| 26 Nov 22 | Backend Master Class [Golang + Postgres + Kubernetes + gRPC] |                 TECH SCHOOL                  |
 | 30 Oct 22 |     GitLab CI: Pipelines, CI/CD and DevOps for Beginners     |                Valentin Despa                |
 | 29 Oct 22 | Learn How To Code: Google's Go (golang) Programming Language |                 Todd McLeod                  |
 | 12 Oct 22 |       Svelte.js - The Complete Guide (incl. Sapper.js)       |           Maximilian Schwarzmüller           |
