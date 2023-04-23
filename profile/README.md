@@ -1,30 +1,11 @@
-- **All the repositories here are powered by Udemy, YouTube tutorials, Stack Overflow and documentations**
-- **MERN Stack<sup>\*</sup>**
-  - Jobify ([Source Code](https://github.com/DarrelASandbox/mern-jobify))
-  - YourPlaces ([Source Code](https://github.com/DarrelASandbox/mern-your-places))
-  - Emaily ([Source Code](https://github.com/DarrelASandbox/mern-emaily))
-  - Support Desk App ([Source Code](https://github.com/DarrelASandbox/mern-support-desk-app))
-  - ProShop ([Source Code](https://github.com/DarrelASandbox/mern-proshop))
-- **HTML & CSS**
-  - Omnifood ([Netlify Demo](https://omnifood-19-apr-2022.netlify.app/))
-- **JavaScript**
-  - Maze Game ([GitHub Page Demo](https://darrelasandbox.github.io/javascript-maze-game-with-matterjs/))
-
-<i><sup>\*</sup>Used to host on Heroku when free tier was available</i>
-
-&nbsp;
-
----
-
-&nbsp;
-
 <details>
-  <summary>Collection of Udemy Certificates</summary>
+  <summary>Udemy</summary>
 
 &nbsp;
 
 |   Date    |                            Course                            |                Instructor(s)                 |
 | :-------: | :----------------------------------------------------------: | :------------------------------------------: |
+| 23 Apr 23 | 100 Days of Code: The Complete Python Pro Bootcamp for 2023  |                  Angela Yu                   |
 | 23 Jan 23 |           Understanding TypeScript - 2023 Edition            |           Maximilian Schwarzmüller           |
 | 26 Nov 22 | Backend Master Class [Golang + Postgres + Kubernetes + gRPC] |                 TECH SCHOOL                  |
 | 30 Oct 22 |     GitLab CI: Pipelines, CI/CD and DevOps for Beginners     |                Valentin Despa                |
