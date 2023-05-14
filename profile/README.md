@@ -5,6 +5,8 @@
 
 |   Date    |                            Course                            |                Instructor(s)                 |
 | :-------: | :----------------------------------------------------------: | :------------------------------------------: |
+| 13 May 23 |             Mastering TypeScript - 2023 Edition              |                 Colt Steele                  |
+| 05 May 23 |   Next.js & React - The Complete Guide (incl. Two Paths!)    |           Maximilian Schwarzmüller           |
 | 23 Apr 23 | 100 Days of Code: The Complete Python Pro Bootcamp for 2023  |                  Angela Yu                   |
 | 23 Jan 23 |           Understanding TypeScript - 2023 Edition            |           Maximilian Schwarzmüller           |
 | 26 Nov 22 | Backend Master Class [Golang + Postgres + Kubernetes + gRPC] |                 TECH SCHOOL                  |
