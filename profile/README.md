@@ -1,5 +1,16 @@
+## Keyword list for repository search
+
+|            |        |          |             |
+| :--------: | :----: | :------: | :---------: |
+| playground |  css   |          |             |
+| javascript |   go   |  python  |             |
+|   react    |  node  |   mern   |             |
+|    git     | system | security | development |
+
+&nbsp;
+
 <details>
-  <summary>Udemy</summary>
+  <summary>List of Udemy Courses</summary>
 
 &nbsp;
 
