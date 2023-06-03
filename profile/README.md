@@ -1,10 +1,10 @@
 ## Keyword list for repository search
 
-|            |        |            |             |
-| :--------: | :----: | :--------: | :---------: |
-| playground |  css   | javascript |     go      |
-|   react    |  node  |    mern    |             |
-|    git     | system |  security  | development |
+|            |            |          |
+| :--------: | :--------: | :------: |
+| playground | javascript |    go    |
+|    mern    |   react    |   node   |
+|    git     |   system   | security |
 
 &nbsp;
 
