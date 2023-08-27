@@ -15,6 +15,8 @@
 
 |   Date    |                            Course                            |                Instructor(s)                 |
 | :-------: | :----------------------------------------------------------: | :------------------------------------------: |
+| 28 Aug 23 |      Spring Boot 3, Spring 6 & Hibernate for Beginners       |                  Chad Darby                  |
+| 10 Aug 23 |            Redis: The Complete Developer's Guide             |                Stephen Grider                |
 | 13 May 23 |             Mastering TypeScript - 2023 Edition              |                 Colt Steele                  |
 | 05 May 23 |   Next.js & React - The Complete Guide (incl. Two Paths!)    |           Maximilian Schwarzmüller           |
 | 23 Apr 23 | 100 Days of Code: The Complete Python Pro Bootcamp for 2023  |                  Angela Yu                   |
