@@ -15,6 +15,7 @@
 
 |   Date    |                            Course                            |                Instructor(s)                 |
 | :-------: | :----------------------------------------------------------: | :------------------------------------------: |
+| 31 Oct 23 |         Learn JAVA Programming - Beginner to Master          |                  Abdul Bari                  |
 | 28 Aug 23 |      Spring Boot 3, Spring 6 & Hibernate for Beginners       |                  Chad Darby                  |
 | 10 Aug 23 |            Redis: The Complete Developer's Guide             |                Stephen Grider                |
 | 13 May 23 |             Mastering TypeScript - 2023 Edition              |                 Colt Steele                  |
