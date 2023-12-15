@@ -15,6 +15,8 @@
 
 |   Date    |                            Course                            |                Instructor(s)                 |
 | :-------: | :----------------------------------------------------------: | :------------------------------------------: |
+| 15 Dec 23 | ChatGPT and LangChain: The Complete Developer's Masterclass  |                Stephen Grider                |
+| 26 Nov 23 |      SQL and PostgreSQL: The Complete Developer's Guide      |                Stephen Grider                |
 | 31 Oct 23 |         Learn JAVA Programming - Beginner to Master          |                  Abdul Bari                  |
 | 28 Aug 23 |      Spring Boot 3, Spring 6 & Hibernate for Beginners       |                  Chad Darby                  |
 | 10 Aug 23 |            Redis: The Complete Developer's Guide             |                Stephen Grider                |
